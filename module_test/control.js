@@ -1,5 +1,7 @@
-exports.show = function(items){
+
+// モジュール化
+exports.show = function(items) {
     items.forEach(item => {
+       console.log(item) 
     });
-        console.log(item)
 }

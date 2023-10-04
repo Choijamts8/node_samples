@@ -1,6 +1,7 @@
 //module
 exports.items = [
-    'Apple',
-    'Orange',
-    'Peach',
+    '私は',
+    'あなたに',
+    '好きだ',
+
 ]
